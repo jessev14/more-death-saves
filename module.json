@@ -1,0 +1,47 @@
+{
+    "id": "more-death-saves",
+    "title": "More Death Saves",
+    "description": "",
+    "authors": [
+        {
+            "name": "enso",
+            "discord": "enso#0361"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "12"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "3.0.0",
+                    "verified": "3.0.0"
+                }
+            }
+        ],
+        "requires": [
+            {
+                "id": "lib-wrapper",
+                "type": "module",
+                "compatibility": {
+                    "minimum": "1",
+                    "verified": "1.12.7.1"
+                }
+            }
+        ]
+    },
+    "esmodules": [
+        "./scripts/more-death-saves.js"
+    ],
+    "styles": [
+    ],
+    "languages": [],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}

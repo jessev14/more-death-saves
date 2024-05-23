@@ -1,0 +1,13 @@
+.death-saves .pips {
+    gap: 2px;
+}
+
+.death-saves .pips[data-prop="system.attributes.death.success"] {
+    padding-left: 5px;
+    padding-right: 0;
+}
+
+.death-saves .pips[data-prop="system.attributes.death.failure"] {
+    padding-left: 0;
+    padding-right: 5px;
+}
