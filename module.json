@@ -39,6 +39,7 @@
         "./scripts/more-death-saves.js"
     ],
     "styles": [
+        "./styles/more-death-saves.css"
     ],
     "languages": [],
     "url": "",
