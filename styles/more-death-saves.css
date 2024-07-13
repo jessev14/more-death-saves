@@ -11,3 +11,13 @@
     padding-left: 0;
     padding-right: 5px;
 }
+
+.custom-dnd5e.dnd5e2 .death-saves .pips[data-prop="system.attributes.death.success"] {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.custom-dnd5e.dnd5e2 .death-saves .pips[data-prop="system.attributes.death.failure"] {
+    flex-wrap: wrap;
+    justify-content: center;
+}
